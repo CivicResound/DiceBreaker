@@ -1,4 +1,4 @@
-    div#outer {
+    div#outer3 {
 	width: 900px;
 	height: 500px;
 	margin-top: 30px;
@@ -6,7 +6,7 @@
 	margin-left: auto;
 }
 
-div.unregistered {
+div.unregistered3 {
 	text-align: center;
 	margin-right: auto;
 	margin-left: auto;
@@ -25,7 +25,7 @@ div.unregistered {
 	box-shadow:0px -5px 150px #000000;
 }
 
-div.registered {
+div.registered3 {
 	text-align: center;
 	float:left;
 	padding: 15px;
@@ -43,7 +43,7 @@ div.registered {
 	box-shadow:0px -5px 100px #000000;
 }
 
-div#sponsors {
+div#sponsors3 {
 	margin-top: 25px;
 	text-align: center;
 	clear:both;

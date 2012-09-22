@@ -2,14 +2,17 @@ require 'rubygems'
 require 'sinatra'
 
 get '/' do
+   @title = "Home"
    erb :home
 end
 
 get '/projects' do
-  erb :projects
+  @title = "Projects"
+  erb :projects 
 end
 
 
 get '/payment' do
-   erb :payment
+   @title = "Payment"
+   erb :payment    
 end
