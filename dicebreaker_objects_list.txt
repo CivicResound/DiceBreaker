@@ -1,0 +1,37 @@
+User
+	name
+	email
+	location
+	job_title
+	hobbies
+	resources
+	availability
+
+Category
+	name
+
+Projects
+	group_size
+	location 
+	skills
+	resource
+	end_date
+	
+Sponsors
+	location
+	skills
+	resource
+
+Donations
+	sponsor_id
+	resource_id
+
+Commitments
+	user_id
+	project_id
+	skills_id
+	resource_id
+	 
+	
+
+	
